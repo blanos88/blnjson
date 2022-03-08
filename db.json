@@ -44,7 +44,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#ffffff"
+		"background": "#D0A944"
       },
       {
         "title": "Call of Cthulhu: Wasted Land ",
@@ -57,7 +57,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#000000"
+		"background": "#D0A944"
       },
       {
         "title": "Dead Space Android",
@@ -70,7 +70,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#000000"
+		"background": "#D0A944"
       },
       {
         "title": "Bloody Mary",
@@ -83,7 +83,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#000000"
+		"background": "#D0A944"
       },
       {
         "title": "Twisted Lands: Shadow Town",
@@ -96,7 +96,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#000000"
+		"background": "#D0A944"
       }
     ]
 
